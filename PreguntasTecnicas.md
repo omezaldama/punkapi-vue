@@ -18,6 +18,8 @@ Supongo que sí, al parecer acepta peticiones desde cualquier lado, debe tener u
 
 ## ¿Cómo rastrearías un problema de rendimiento en producción? ¿Alguna vez has tenido que hacerlo?
 
+No sé, no he tenido que hacerlo nunca.
+
 ## Descríbete a ti mismo en formato JSON.
 
 ```
